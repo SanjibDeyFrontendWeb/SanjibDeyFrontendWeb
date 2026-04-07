@@ -1,4 +1,4 @@
-# 🙋🏻‍♂️ About Me:
+# 🙋🏻‍♂️ Hi! I'm Sanjib Dey:
 🚀 Senior Frontend Engineer | UI/UX Architect | 10+ Years Experience <br>
 * 🔭 <b>Currently specializing in:</b> Developing high-scale React.js architectures and optimizing Next.js Core Web Vitals for enterprise applications.<br>
 * 👯 <b>Looking to collaborate on:</b> Scalable Design Systems, Micro-Frontends, and TypeScript-based open-source libraries.<br>
